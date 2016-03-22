@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloActivity</string>
+    <string name="action_search">Pesquisar</string>
+    <string name="action_share">Compartilhar</string>
+</resources>
